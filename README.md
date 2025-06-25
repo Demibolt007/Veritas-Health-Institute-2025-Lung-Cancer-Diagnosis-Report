@@ -173,7 +173,7 @@ Given the strong correlation between behavioural and symptomatic factors and can
 
 ## 🔗 Links
 
--  **Power BI File**: _[Download the .pbix file](#)_  
+-  **Power BI File**: _[Download the .pbix file](./Veritas%20Health%20Institute%20—%202025%20Lung%20Cancer%20Diagnosis%20Report.pbix)_  
 -  **Dashboard Summary Report**: _[View on Google Docs or PDF](#)_  
 -  **Full Medium Report**: [Read the Project Article](https://medium.com/@demibolt/veritas-health-institute-2025-lung-cancer-diagnosis-report-d666e3de6225)
 
