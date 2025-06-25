@@ -182,5 +182,5 @@ Given the strong correlation between behavioural and symptomatic factors and can
 ## 📬 Contact
 
 - 📧 **Email**: adeniyioluwademilade@gmail.com  
-- 💼 **LinkedIn**: [linkedin.com/in/adeniyi-oluwademilade](https://www.linkedin.com/in/adeniyi-oluwademilade)  
+- 💼 **LinkedIn**: [LinkedIn – Connect with Me](https://www.linkedin.com/in/adeniyioluwademilade)
 - 🐦 **Twitter**: [@demibolt007](https://twitter.com/demibolt007)
