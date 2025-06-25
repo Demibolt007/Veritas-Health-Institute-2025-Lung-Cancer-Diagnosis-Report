@@ -1,4 +1,4 @@
-#  Lung Cancer Risk & Symptom Analysis — Veritas Health Institute (2025)
+#  Veritas Health Institute — 2025 Lung Cancer Diagnosis Report
 
 ![Task 31A - Adeniyi Oluwademilade Adedamola](https://github.com/user-attachments/assets/e92731a3-9932-492b-9843-55b983acc5e9)
 
